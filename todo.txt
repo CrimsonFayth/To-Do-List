@@ -1,2 +1,2 @@
 1. Learn Git
-3. Study
+2. Study
